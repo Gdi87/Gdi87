@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gdi87
+- 👋 Hi, I’m @Gdi87              
   
-- 👀 I’m interested in ... python and javascript
+- 👀 I’m interested in ... python and javascript              
     
 - 🌱 I’m currently learning ... fullstack
 - 
