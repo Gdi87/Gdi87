@@ -8,7 +8,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=gdi87&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gdi87)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gdi87&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
