@@ -15,6 +15,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gdi87&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdi87)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <details> 
   <summary><h2>🛠️ Tools</h2></summary>
