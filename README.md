@@ -9,7 +9,7 @@
 - 📫 How to reach me ... on agodino.es
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gdi87&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <!---[![GitHub Streak](https://streak-stats.demolab.com?user=gdi87&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdi87&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gdi87&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
